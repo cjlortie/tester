@@ -9,3 +9,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## testing
 
+git config --global user.email ""  
+git config --global user.name ""
