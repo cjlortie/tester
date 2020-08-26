@@ -15,5 +15,7 @@ git config --global user.name ""
 terminal not shell!!  
 heck ya.
 
-git config --global user.name "Your Name"
-git config --global user.email you@example.com
+### better
+cd -  
+git config --global user.name "Your Name"  
+git config --global user.email you@example.com  
