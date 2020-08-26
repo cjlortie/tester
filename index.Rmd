@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## testing
+## Tester
 
 git config --global user.email ""  
 git config --global user.name ""
