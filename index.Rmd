@@ -14,7 +14,7 @@ git config --global user.name ""
 
 
 
-### better
+### better 2020
 terminal not shell!!  
 heck ya.
 cd -  
